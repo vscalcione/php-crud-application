@@ -1,3 +1,7 @@
+body{
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+}
+
 .d-flex button{
     margin: 1.5em 0.5em;
     padding: 0.3em 1.4em;
